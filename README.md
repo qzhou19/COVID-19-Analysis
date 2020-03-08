@@ -10,7 +10,8 @@ https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data
 
 The data is downloaded as of 03/07/2020 CST  
 
-Libraries used for this project: numpy, pandas, matplotlab, scipy
+Libraries used for this project:  
+* numpy, pandas, matplotlab, scipy
 
 Project file structure:  
 
@@ -21,7 +22,7 @@ Project file structure:
 * Data\                   : Data downloaded as mentioned above used for this analysis
 
 
-This project follows the CRISP-DM process as domenstrated in the analysis flow, from business/data understanding, to data preparing/modeling, until results/deploy. 
+This project follows the CRISP-DM process as demonstrated in the analysis flow, from business/data understanding, to data preparing/modeling, until results/deploy. 
 
 The analysis is aiming at answering following questions of interest:
 
@@ -30,4 +31,4 @@ The analysis is aiming at answering following questions of interest:
 3. How is the situation in China now at 3 months after the outbreak? Will it get cleared soon?  
 4. How long it will take to see the panic outbreak in the US and when it will clear out?
 
-Based on this analysis, the spreading of COVID-19 generally has 3 phases, slowly growing, fast transimitting, stable plateau. Different province in China all have similar spreading trend. After 3 months, most province in China have the virus under control while Hubei still has a long way to go. Compared to China, the US is currently in the early fast transimtting phase. If following similar protocol and strategy as in China, the virus should finsh its course in the next a few months. We shall take precautious and avoid public areas in the near future. 
+Based on this analysis, the spreading of COVID-19 generally has 3 phases, slowly growing, fast transimitting, stable plateau. Different province in China all have similar spreading trends. After 3 months, most province in China have the virus under control while Hubei still has a long way to go. Compared to China, the US is currently in the early fast transimtting phase. If following similar protocol and strategy as in China, the virus should finsh its course in the next a few months. We shall take precautious and avoid public areas in the near future. 
